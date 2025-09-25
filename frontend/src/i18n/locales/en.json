@@ -1,0 +1,158 @@
+{
+  "app": {
+    "name": "AASHAKIRANA",
+    "tagline": "Healthcare for Rural India"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "username": "Username",
+    "password": "Password",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "place": "Place/Village",
+    "aadhaar": "Aadhaar Number",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "loginSuccess": "Login successful!",
+    "registrationSuccess": "Registration successful!",
+    "loginFailed": "Login failed",
+    "registrationFailed": "Registration failed"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "forms": "Forms",
+    "alerts": "Alerts",
+    "profile": "My Profile",
+    "settings": "Settings"
+  },
+  "forms": {
+    "familySurvey": "Family Survey",
+    "pregnancyReport": "Pregnancy Report",
+    "leprosyReport": "Leprosy Report",
+    "childVaccination": "Child Vaccination",
+    "postnatalCare": "Postnatal Care",
+    "submit": "Submit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "required": "This field is required"
+  },
+  "familySurvey": {
+    "title": "Family Survey Form",
+    "householdId": "Household ID",
+    "membersList": "Family Members List",
+    "sanitation": "Sanitation Facilities",
+    "chronicIllnesses": "Chronic Illnesses",
+    "good": "Good",
+    "average": "Average",
+    "poor": "Poor",
+    "none": "None",
+    "diabetes": "Diabetes",
+    "hypertension": "Hypertension",
+    "heartDisease": "Heart Disease"
+  },
+  "pregnancyReport": {
+    "title": "Pregnancy Report Form",
+    "lmp": "Last Menstrual Period (LMP)",
+    "edd": "Expected Delivery Date (EDD)",
+    "gravida": "Gravida (Total Pregnancies)",
+    "para": "Para (Live Births)",
+    "ancCheckups": "ANC Checkups",
+    "riskFactors": "Risk Factors",
+    "patientName": "Patient Name",
+    "patientPhone": "Patient Phone",
+    "highRisk": "High Risk",
+    "normalRisk": "Normal Risk",
+    "completed": "Completed",
+    "pending": "Pending",
+    "scheduled": "Scheduled"
+  },
+  "childVaccination": {
+    "title": "Child Vaccination Form",
+    "childName": "Child Name",
+    "childDob": "Date of Birth",
+    "vaccineSchedule": "Vaccine Schedule",
+    "missedDoses": "Missed Doses",
+    "nextDue": "Next Due Date",
+    "parentName": "Parent Name",
+    "parentPhone": "Parent Phone"
+  },
+  "postnatalCare": {
+    "title": "Postnatal Care Form",
+    "pncVisits": "PNC Visits",
+    "motherHealth": "Mother's Health",
+    "babyHealth": "Baby's Health",
+    "counselling": "Counselling Provided",
+    "motherName": "Mother's Name",
+    "deliveryDate": "Delivery Date"
+  },
+  "leprosyReport": {
+    "title": "Leprosy Report Form",
+    "patientName": "Patient Name",
+    "leprosyType": "Leprosy Type",
+    "treatment": "Treatment Details",
+    "followUps": "Follow-up Schedule",
+    "householdContacts": "Household Contacts",
+    "multibacillary": "Multibacillary",
+    "paucibacillary": "Paucibacillary"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalSurveys": "Total Surveys",
+    "totalPregnancies": "Pregnancies Tracked",
+    "totalVaccinations": "Vaccinations Recorded",
+    "totalPnc": "PNC Visits",
+    "unreadAlerts": "Unread Alerts",
+    "incentivesEarned": "Incentives Earned",
+    "performance": "ASHA Performance",
+    "highRiskPatients": "High Risk Patients"
+  },
+  "alerts": {
+    "title": "Alerts & Notifications",
+    "noAlerts": "No alerts available",
+    "markAsRead": "Mark as Read",
+    "ancCheckup": "ANC Checkup Due",
+    "vaccination": "Vaccination Due",
+    "pncVisit": "PNC Visit Due",
+    "followUp": "Follow-up Required"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "notifications": "Notifications",
+    "syncSettings": "Sync Settings",
+    "about": "About"
+  },
+  "sync": {
+    "online": "Online",
+    "offline": "Offline",
+    "syncing": "Syncing...",
+    "pendingSync": "Pending Sync",
+    "syncNow": "Sync Now",
+    "lastSync": "Last Sync",
+    "syncSuccess": "Sync completed successfully",
+    "syncFailed": "Sync failed"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Information",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "date": "Date",
+    "time": "Time",
+    "phone": "Phone",
+    "address": "Address"
+  }
+}

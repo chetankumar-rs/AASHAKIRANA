@@ -1,0 +1,158 @@
+{
+  "app": {
+    "name": "ಆಶಾಕಿರಣ",
+    "tagline": "ಗ್ರಾಮೀಣ ಭಾರತದ ಆರೋಗ್ಯ"
+  },
+  "auth": {
+    "login": "ಲಾಗಿನ್",
+    "register": "ನೋಂದಣಿ",
+    "logout": "ಲಾಗ್‌ಔಟ್",
+    "username": "ಬಳಕೆದಾರರ ಹೆಸರು",
+    "password": "ಪಾಸ್‌ವರ್ಡ್",
+    "name": "ಪೂರ್ಣ ಹೆಸರು",
+    "phone": "ದೂರವಾಣಿ ಸಂಖ್ಯೆ",
+    "place": "ಸ್ಥಳ/ಗ್ರಾಮ",
+    "aadhaar": "ಆಧಾರ್ ಸಂಖ್ಯೆ",
+    "createAccount": "ಖಾತೆ ರಚಿಸಿ",
+    "alreadyHaveAccount": "ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ?",
+    "dontHaveAccount": "ಖಾತೆ ಇಲ್ಲವೇ?",
+    "loginSuccess": "ಲಾಗಿನ್ ಯಶಸ್ವಿಯಾಗಿದೆ!",
+    "registrationSuccess": "ನೋಂದಣಿ ಯಶಸ್ವಿಯಾಗಿದೆ!",
+    "loginFailed": "ಲಾಗಿನ್ ವಿಫಲವಾಯಿತು",
+    "registrationFailed": "ನೋಂದಣಿ ವಿಫಲವಾಯಿತು"
+  },
+  "navigation": {
+    "home": "ಮನೆ",
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "forms": "ಫಾರ್ಮ್‌ಗಳು",
+    "alerts": "ಅಲರ್ಟ್‌ಗಳು",
+    "profile": "ನನ್ನ ಪ್ರೊಫೈಲ್",
+    "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "forms": {
+    "familySurvey": "ಕುಟುಂಬ ಸಮೀಕ್ಷೆ",
+    "pregnancyReport": "ಗರ್ಭಾವಸ್ಥೆಯ ವರದಿ",
+    "leprosyReport": "ಕುಷ್ಠರೋಗ ವರದಿ",
+    "childVaccination": "ಮಕ್ಕಳ ಲಸಿಕೆ",
+    "postnatalCare": "ಪ್ರಸವೋತ್ತರ ಆರೈಕೆ",
+    "submit": "ಸಲ್ಲಿಸಿ",
+    "save": "ಉಳಿಸಿ",
+    "cancel": "ರದ್ದುಗೊಳಿಸಿ",
+    "required": "ಈ ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ"
+  },
+  "familySurvey": {
+    "title": "ಕುಟುಂಬ ಸಮೀಕ್ಷೆ ಫಾರ್ಮ್",
+    "householdId": "ಮನೆಯ ಐಡಿ",
+    "membersList": "ಕುಟುಂಬ ಸದಸ್ಯರ ಪಟ್ಟಿ",
+    "sanitation": "ನೈರ್ಮಲ್ಯ ಸೌಲಭ್ಯಗಳು",
+    "chronicIllnesses": "ದೀರ್ಘಕಾಲೀನ ಕಾಯಿಲೆಗಳು",
+    "good": "ಒಳ್ಳೆಯದು",
+    "average": "ಸಾಧಾರಣ",
+    "poor": "ಕಳಪೆ",
+    "none": "ಯಾವುದೂ ಇಲ್ಲ",
+    "diabetes": "ಮಧುಮೇಹ",
+    "hypertension": "ಅಧಿಕ ರಕ್ತದೊತ್ತಡ",
+    "heartDisease": "ಹೃದ್ರೋಗ"
+  },
+  "pregnancyReport": {
+    "title": "ಗರ್ಭಾವಸ್ಥೆಯ ವರದಿ ಫಾರ್ಮ್",
+    "lmp": "ಕೊನೆಯ ಮಾಸಿಕ ಧರ್ಮ (LMP)",
+    "edd": "ಅಪೇಕ್ಷಿತ ಹೆರಿಗೆ ದಿನಾಂಕ (EDD)",
+    "gravida": "ಗ್ರಾವಿಡಾ (ಒಟ್ಟು ಗರ್ಭಧಾರಣೆಗಳು)",
+    "para": "ಪ್ಯಾರಾ (ಜೀವಂತ ಜನನಗಳು)",
+    "ancCheckups": "ANC ತಪಾಸಣೆಗಳು",
+    "riskFactors": "ಅಪಾಯ ಅಂಶಗಳು",
+    "patientName": "ರೋಗಿಯ ಹೆಸರು",
+    "patientPhone": "ರೋಗಿಯ ದೂರವಾಣಿ",
+    "highRisk": "ಹೆಚ್ಚಿನ ಅಪಾಯ",
+    "normalRisk": "ಸಾಮಾನ್ಯ ಅಪಾಯ",
+    "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "pending": "ಬಾಕಿ ಇದೆ",
+    "scheduled": "ನಿಗದಿಪಡಿಸಲಾಗಿದೆ"
+  },
+  "childVaccination": {
+    "title": "ಮಕ್ಕಳ ಲಸಿಕೆ ಫಾರ್ಮ್",
+    "childName": "ಮಗುವಿನ ಹೆಸರು",
+    "childDob": "ಜನ್ಮ ದಿನಾಂಕ",
+    "vaccineSchedule": "ಲಸಿಕೆ ವೇಳಾಪಟ್ಟಿ",
+    "missedDoses": "ಕಳೆದುಹೋದ ಡೋಸ್‌ಗಳು",
+    "nextDue": "ಮುಂದಿನ ನಿಗದಿತ ದಿನಾಂಕ",
+    "parentName": "ಪೋಷಕರ ಹೆಸರು",
+    "parentPhone": "ಪೋಷಕರ ದೂರವಾಣಿ"
+  },
+  "postnatalCare": {
+    "title": "ಪ್ರಸವೋತ್ತರ ಆರೈಕೆ ಫಾರ್ಮ್",
+    "pncVisits": "PNC ಭೇಟಿಗಳು",
+    "motherHealth": "ತಾಯಿಯ ಆರೋಗ್ಯ",
+    "babyHealth": "ಮಗುವಿನ ಆರೋಗ್ಯ",
+    "counselling": "ಸಲಹೆ ಒದಗಿಸಲಾಗಿದೆ",
+    "motherName": "ತಾಯಿಯ ಹೆಸರು",
+    "deliveryDate": "ಹೆರಿಗೆ ದಿನಾಂಕ"
+  },
+  "leprosyReport": {
+    "title": "ಕುಷ್ಠರೋಗ ವರದಿ ಫಾರ್ಮ್",
+    "patientName": "ರೋಗಿಯ ಹೆಸರು",
+    "leprosyType": "ಕುಷ್ಠರೋಗದ ವಿಧ",
+    "treatment": "ಚಿಕಿತ್ಸೆಯ ವಿವರಗಳು",
+    "followUps": "ಅನುಸರಣೆ ವೇಳಾಪಟ್ಟಿ",
+    "householdContacts": "ಮನೆಯ ಸಂಪರ್ಕಗಳು",
+    "multibacillary": "ಬಹುಬ್ಯಾಸಿಲರಿ",
+    "paucibacillary": "ಪೌಸಿಬ್ಯಾಸಿಲರಿ"
+  },
+  "dashboard": {
+    "title": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "totalSurveys": "ಒಟ್ಟು ಸಮೀಕ್ಷೆಗಳು",
+    "totalPregnancies": "ಟ್ರ್ಯಾಕ್ ಮಾಡಿದ ಗರ್ಭಧಾರಣೆಗಳು",
+    "totalVaccinations": "ದಾಖಲಿಸಿದ ಲಸಿಕೆಗಳು",
+    "totalPnc": "PNC ಭೇಟಿಗಳು",
+    "unreadAlerts": "ಓದದ ಅಲರ್ಟ್‌ಗಳು",
+    "incentivesEarned": "ಪ್ರೋತ್ಸಾಹ ಧನ ಗಳಿಸಲಾಗಿದೆ",
+    "performance": "ಆಶಾ ಕಾರ್ಯಕ್ಷಮತೆ",
+    "highRiskPatients": "ಹೆಚ್ಚಿನ ಅಪಾಯದ ರೋಗಿಗಳು"
+  },
+  "alerts": {
+    "title": "ಅಲರ್ಟ್‌ಗಳು ಮತ್ತು ಸೂಚನೆಗಳು",
+    "noAlerts": "ಯಾವುದೇ ಅಲರ್ಟ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ",
+    "markAsRead": "ಓದಲಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ",
+    "ancCheckup": "ANC ತಪಾಸಣೆ ನಿಗದಿತ",
+    "vaccination": "ಲಸಿಕೆ ನಿಗದಿತ",
+    "pncVisit": "PNC ಭೇಟಿ ನಿಗದಿತ",
+    "followUp": "ಅನುಸರಣೆ ಅಗತ್ಯವಿದೆ"
+  },
+  "settings": {
+    "title": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "language": "ಭಾಷೆ",
+    "darkMode": "ಡಾರ್ಕ್ ಮೋಡ್",
+    "notifications": "ಸೂಚನೆಗಳು",
+    "syncSettings": "ಸಿಂಕ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "about": "ಬಗ್ಗೆ"
+  },
+  "sync": {
+    "online": "ಆನ್‌ಲೈನ್",
+    "offline": "ಆಫ್‌ಲೈನ್",
+    "syncing": "ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ...",
+    "pendingSync": "ಸಿಂಕ್ ಬಾಕಿ ಇದೆ",
+    "syncNow": "ಈಗ ಸಿಂಕ್ ಮಾಡಿ",
+    "lastSync": "ಕೊನೆಯ ಸಿಂಕ್",
+    "syncSuccess": "ಸಿಂಕ್ ಯಶಸ್ವಿಯಾಗಿ ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "syncFailed": "ಸಿಂಕ್ ವಿಫಲವಾಯಿತು"
+  },
+  "common": {
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "error": "ದೋಷ",
+    "success": "ಯಶಸ್ಸು",
+    "warning": "ಎಚ್ಚರಿಕೆ",
+    "info": "ಮಾಹಿತಿ",
+    "confirm": "ಖಚಿತಪಡಿಸಿ",
+    "yes": "ಹೌದು",
+    "no": "ಇಲ್ಲ",
+    "ok": "ಸರಿ",
+    "search": "ಹುಡುಕಿ",
+    "filter": "ಫಿಲ್ಟರ್",
+    "sort": "ವಿಂಗಡಿಸಿ",
+    "date": "ದಿನಾಂಕ",
+    "time": "ಸಮಯ",
+    "phone": "ದೂರವಾಣಿ",
+    "address": "ವಿಳಾಸ"
+  }
+}
